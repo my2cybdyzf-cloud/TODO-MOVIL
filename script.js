@@ -47,7 +47,7 @@
       stock: false
     },
     {
-      img: "img/galaxy-a55.png",
+      img: "img/galaxyA55.png",
       brand: "Samsung",
       name: "Galaxy A55",
       specs: ["256GB", "8GB RAM", "Cámara 50MP", "IP67"],
