@@ -15,7 +15,7 @@
      ============================================ */
   const PRODUCTS = [
     {
-        img: "img/iphone-15-pro-MAX.png",
+        img: "img/iphone-15-pro-max.png",
         brand: "Apple",
       name: "iPhone 15 Pro",
       specs: ["256GB", "8GB RAM", "Cámara 48MP", "Titanio"],
